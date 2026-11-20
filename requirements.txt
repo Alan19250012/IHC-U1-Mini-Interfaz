@@ -1,0 +1,1 @@
+# Sin dependencias externas: usa solo módulos estándar de Python (re, unicodedata).
